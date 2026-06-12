@@ -1,2 +1,1 @@
-# Enterprise-AI-Analytics-Transformation
-End-to-end consulting-style analytics project leveraging customer intelligence, forecasting, KPI development, executive dashboards, risk assessment, optimization modeling, and AI strategy recommendations.
+IBM-style AI & Analytics consulting project featuring churn prediction, KPI development, forecasting, executive dashboards, risk analysis, and investment optimization.
